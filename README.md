@@ -1,10 +1,10 @@
 # Ade-Repo: Project_Zero
-# a debut solo project
-# demonstrates a banking application
-# where a bank customer can create
-# as many checking account as they want 
-# and persisted those account to the post-sql database
-# this project demonstrates some front-end testing 
+# A debut solo project
+# Demonstrates a banking application
+# Where a bank customer can create
+# As many checking accounts as they want 
+# and persisted those accounts to the post-sql database
+# This project demonstrates some front-end testing 
 # using postman
 # Also in this project
 # Jetty was used as the Back-end server
